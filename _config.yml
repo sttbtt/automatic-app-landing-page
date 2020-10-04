@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Scoring
     description                           : Tap on Info Display at top to batch add scores, tap on score box to add, delete or change a score.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : check-circle
     
   - title                                 : Players
     description                           : Unlimited number of players can be added and removed.  Click on a name to add that player to a new game.
