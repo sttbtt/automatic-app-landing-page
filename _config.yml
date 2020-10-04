@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Scott Bennett                                
 your_link                                 : https://sttbtt.github.io/                     
-your_city                                 : Cincinnati                                
+your_city                                 :                                 
 email_address                             : flexiscore@icloud.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : sttbtt
+github_username                           : 
 youtube_username                          :
 
 
@@ -34,45 +34,45 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Scoring
+    description                           : Tap on Info Display at top to batch add scores, tap on score box to add, delete or change a score.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Players
+    description                           : Unlimited number of players can be added and removed.  Click on a name to add that player to a new game.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Games
+    description                           : Add custom games with Info Display and Score Hints.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Colors
+    description                           : Tap a color to change the highlight color.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : # Easy to Tweak
+    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : # Feature List
+    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : # Smart App Banner
+    description                           : # Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : # arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : # Social Links
+    description                           : # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : # FontAwesome Support
+    description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # info-circle
 
-  - title                                 : My Test
-    description                           : Testing
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : # My Test
+    description                           : # Testing
+    fontawesome_icon_name                 : # arrow-alt-circle-down
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
