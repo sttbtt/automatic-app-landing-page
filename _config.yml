@@ -70,10 +70,13 @@ features                                  :
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
 
+  - title                                 : My Test
+    description                           : Testing
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
