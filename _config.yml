@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Colors
     description                           : Tap a color to change the highlight color.
-    fontawesome_icon_name                 : pallette
+    fontawesome_icon_name                 : palette
 
   - title                                 : # Easy to Tweak
     description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
