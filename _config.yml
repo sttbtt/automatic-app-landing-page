@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Players
     description                           : Unlimited number of players can be added and removed.  Click on a name to add that player to a new game.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : users
 
   - title                                 : Games
     description                           : Add custom games with Info Display and Score Hints.
@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Colors
     description                           : Tap a color to change the highlight color.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : pallette
 
   - title                                 : # Easy to Tweak
     description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
