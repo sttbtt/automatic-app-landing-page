@@ -1,3 +1,12 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+**Last updated**  
+October 3, 2020
+
 **Privacy Policy**
 
 Scott Bennett built the FlexiScore app as a Commercial app. This SERVICE is provided by Scott Bennett and is intended for use as is.
